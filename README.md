@@ -1,4 +1,4 @@
-# This is an unmodified fork (other than this README) of the original CompVis/stable-diffusion Git Repo
+# This is an unmodified fork (other than this README) of the original CompVis/stable-diffusion Git Repo, as of May 16, 2024
 I forked this because Stability AI is facing some hard times. If they ever delete or private the repo, you can use this fork to continue using Stable Diffusion models.
 
 I highly doubt SD-1.5, SD-XL, SD-2.1, etc. will ever be lost entirely from the internet, but if that's the case, you can use this interface to run/retrain a model that has already been finetuned on those.
